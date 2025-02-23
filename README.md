@@ -1,4 +1,4 @@
-# Insurance AI App
+# InsureRight
 
 ## Overview
 
